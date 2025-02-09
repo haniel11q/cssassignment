@@ -1,0 +1,91 @@
+body{background-color: rgb(208, 254, 254);
+}
+
+header{width: 660px;
+    height: 105px;
+    top: 205px;
+    left: 140px;
+    gap: 10px;
+    opacity: 0px;
+    }
+    img{width: 80px;
+    height: 100px;}
+    
+
+form{width: 580px;
+    height: 679px;
+    top: 81px;
+    left: 720px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    border: 50px;
+    border-color: black;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px 0px #0408131A;
+    display: grid;
+}    
+input#fname{width: 238px;
+    height: 48px;
+    top: 121px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;    
+    }
+input#lname{width: 238px;
+    height: 48px;
+    top: 121px;
+    left: 1022px;
+    gap: 0px;
+    opacity: 0px;
+    }
+input#gender{width: 238px;
+    height: 48px;
+    top: 223px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    align-self: flex-end;
+    }
+input#dob{width: 238px;
+    height: 48px;
+    top: 223px;
+    left: 1022px;
+    gap: 0px;
+    opacity: 0px;
+    }
+input#weight{width: 238px;
+    height: 48px;
+    top: 325px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    }
+input#height{width: 238px;
+    height: 48px;
+    top: 325px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    }
+input#avt{width: 500px;
+    height: 48px;
+    top: 427px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    }
+input#password{width: 500px;
+    height: 48px;
+    top: 529px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    }
+button{width: 500px;
+    height: 48px;
+    top: 631px;
+    left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: aquamarine;}

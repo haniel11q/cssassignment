@@ -1,0 +1,25 @@
+header{border: 2px;
+background-color: rgb(235, 129, 182);
+width: 7cm;
+height: 1.5cm;
+top: -10px;
+position: absolute;
+text-align: center;
+border-radius: 2px;
+margin-left: 140px;
+}
+main{border: 2px;
+    border-radius:5px ;
+background-color: white;
+width: 8cm;
+height:4cm;
+padding: 80px 30px 20px 30px;
+margin-left: 100px;
+margin-top: 50px;
+}
+body{background-color: black;}
+.cont{position: relative;
+width: fit-content;
+align-items: center;}
+@media only screen and (max-width: 768px) {[class*= "cont"] {
+    width: 100%;} }

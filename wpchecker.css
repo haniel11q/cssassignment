@@ -1,0 +1,96 @@
+.sidebar{display: grid;
+border: 2px;
+background: rgba(17, 121, 191, 1);
+width: 231px;
+height: 610px;
+top: 228px;
+left: 886px;
+gap: 0px;
+opacity: 0px;
+text-align: center;
+color: white;
+}
+body{width: 892px;
+    height: 795px;
+    top: 186px;
+    left: 262px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    main{display: flex;
+        border: 10px;
+        border-color: aquamarine;
+    margin: 100px;
+    width: 892px;
+    height: 845px;
+    top: 186px;
+    left: 262px;
+    gap: 0px;
+    opacity: 0px;
+    height: 795px;}
+.basic{width: 580px;
+        height: 221px;
+        top: 341px;
+        left: 262px;
+        gap: 0px;
+        opacity: 0px; }
+.checkout{width: 580px;
+    height: 80px;
+    top: 227px;
+    left: 262px;
+    gap: 0px;
+    opacity: 0px;
+    }
+.info{height: 154px;
+       top: 595px;
+       left: 262px;
+       gap: 0px;
+       opacity: 0px;}
+
+.buy{width: 483px;
+height: 52px;
+top: 788px;
+left: 311px;
+gap: 0px;
+border: 5px;
+background-color: rgba(3, 142, 125, 1);
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+    }
+ input#fname{width: 227px;
+    height: 30px;
+    top: 384px;
+    left: 568px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    }
+input#lname{width: 227px;
+    height: 30px;
+    top: 384px;
+    left: 568px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    }
+input#email{width: 370px;
+    height: 30px;
+    top: 459px;
+    left: 311px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    }
+ input#cc{width: 483px;
+        height: 60px;
+        top: 646px;
+        left: 311px;
+        gap: 0px;
+        border-radius: 4px 0px 0px 0px;
+        opacity: 0px;
+        }
+span{font-weight: 300px;}
+@media only screen and (max-width: 768px) {[class*= "container"] {
+    width: 100%;} }

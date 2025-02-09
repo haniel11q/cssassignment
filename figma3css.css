@@ -1,0 +1,22 @@
+main{border: 2px;
+border-radius: 5px;
+background-color: white;
+margin: 10px 250px 30px 263px;
+align-items: center;}
+img{width: 19.9cm;
+height: 9cm;}
+body{background-color: rgb(213, 170, 250);}
+p{font-family: Arial, Helvetica, sans-serif;
+font-weight: 300;}
+.card{border: 2px;
+background-color: rgb(253, 207, 152);
+width: 5cm;
+position: absolute;
+top: 20px;
+left: 260px;
+height: 40px;
+border-radius: 4px 30px 30px 4px;
+margin-top: 10px;}
+
+@media only screen and (max-width: 768px) {[class*= "container"] {
+    width: 100%;} }
